@@ -5,6 +5,6 @@ class StoreAdminController < ApplicationController
   def invoice
   end
 
-  def admin
+  def home
   end
 end
